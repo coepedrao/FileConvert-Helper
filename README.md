@@ -6,7 +6,7 @@ O **FileConvert Helper** é um script em Python que permite identificar o format
 ## Funcionalidades
 - Identifica a extensão de um arquivo digitado pelo usuário.
 - Exibe os formatos disponíveis para conversão.
-- Suporte para imagens, vídeos, áudios e documentos.
+- Suporte para imagens, vídeos, áudios e documentos
 
 ## Formatos Suportados
 ### Imagens
